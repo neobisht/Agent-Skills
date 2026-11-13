@@ -4,7 +4,7 @@ A collection of useful agent skills I've built, collected, and experimented with
 
 ## Skills
 
-- **socratic-tutor** — Turns an LLM into a personal tutor that teaches a topic of your choice using the Socratic method: a diagnostic, a skill map with levels 0–5, one question at a time, spaced review, and a final assessment.
+- **socratic-tutor** — A personal AI tutor that helps you learn any topic through guided questions, practical exercises, and regular reviews. It adapts to your level, tracks your progress, and tests your understanding before moving on.
 
 ## How to use
 
